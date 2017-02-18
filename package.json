@@ -1,0 +1,19 @@
+{
+  "name": "article-spinner",
+  "version": "1.0.0",
+  "description": "Article-Spinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nklnkl/Article-Spinner.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nklnkl/Article-Spinner/issues"
+  },
+  "homepage": "https://github.com/nklnkl/Article-Spinner#readme"
+}
