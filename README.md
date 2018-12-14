@@ -17,3 +17,10 @@ Allows users to enter text and replaces words with synonyms to generate new text
 	<li>Specifications for levels of synonyms. (Meaning, instead of getting the first synonym, maybe getting the 2nd or 3rd or random.)</li>
 	<li>Possible front-end SPA UI, maybe with AngularJS since I like it.</li>
 </ul>
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
